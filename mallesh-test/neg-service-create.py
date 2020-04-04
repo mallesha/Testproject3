@@ -20,7 +20,7 @@ x['hname-banner-rfs:hname-banner-rfs'][0]['device'] = hostname
 
 data=x['hname-banner-rfs:hname-banner-rfs'][0]['device']
 
-''' The below if block ceck the invalid entry under the hostname parameter
+''' The below if block check the invalid entry under the hostname parameter
 Examples:
 hostname emty
 hostname too long more than 32 char length
